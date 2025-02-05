@@ -1,0 +1,13 @@
+span{
+    color: rgb(104, 43, 184);
+}
+h6{
+    color: brown;
+}
+#weekdays{color: #0be16c;}
+.second{
+    background-color: aquamarine;
+    color: blue;
+    text-transform: uppercase;
+}
+#tuesday{padding: 100px;}
